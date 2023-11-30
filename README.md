@@ -10,4 +10,4 @@ Set up environment
 
 and then install libraries using 
 
-> python3 pip install <package>
+> python3 pip install '<package>'
